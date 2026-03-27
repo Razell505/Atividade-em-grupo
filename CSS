@@ -1,0 +1,80 @@
+/* Configurações Gerais */
+body {
+    font-family: Arial, sans-serif;
+    padding: 20px;
+    background-color: #fdfdfd;
+}
+
+.table-container {
+    overflow-x: auto; /* Garante que a tabela seja rolável em telas pequenas */
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+    font-size: 13px;
+    border: 2px solid #555;
+}
+
+th, td {
+    border: 1px solid #555;
+    padding: 10px 5px;
+}
+
+/* Cabeçalhos Superiores */
+.header-main {
+    background-color: #d9d9d9;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+    height: 40px;
+}
+
+.header-sub {
+    background-color: #f2f2f2;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.header-blue {
+    background-color: #b4c7e7;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.header-day {
+    font-weight: bold;
+}
+
+.header-subtitle {
+    font-weight: normal;
+    font-size: 12px;
+}
+
+/* Colunas Laterais */
+.label-col {
+    background-color: #d9d9d9;
+    font-weight: bold;
+    width: 60px;
+}
+
+.time-col {
+    font-weight: bold;
+    width: 80px;
+}
+
+.group-row td {
+    font-size: 11px;
+    background-color: #f9f9f9;
+}
+
+/* Cores dos Professores/Componentes */
+.bg-orange { background-color: #f8cbad; }
+.bg-yellow { background-color: #ffff00; }
+.bg-blue   { background-color: #bdd7ee; }
+.bg-purple { 
+    background-color: #7030a0; 
+    color: white; 
+    font-weight: bold;
+}
