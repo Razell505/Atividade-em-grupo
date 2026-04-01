@@ -1,4 +1,4 @@
-/* Configurações Gerais */
+
 body {
     font-family: Arial, sans-serif;
     padding: 20px;
@@ -22,7 +22,7 @@ th, td {
     padding: 10px 5px;
 }
 
-/* Cabeçalhos Superiores */
+
 .header-main {
     background-color: #d9d9d9;
     font-weight: bold;
@@ -69,7 +69,7 @@ th, td {
     background-color: #f9f9f9;
 }
 
-/* Cores dos Professores/Componentes */
+
 .bg-orange { background-color: #f8cbad; }
 .bg-yellow { background-color: #ffff00; }
 .bg-blue   { background-color: #bdd7ee; }
