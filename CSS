@@ -6,7 +6,7 @@ body {
 }
 
 .table-container {
-    overflow-x: auto; /* Garante que a tabela seja rolável em telas pequenas */
+    overflow-x: auto; 
 }
 
 table {
